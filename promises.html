@@ -1,0 +1,16 @@
+<script>
+    var record = new Promise((res,rej)=>{         // 
+        console.log(typeof res , typeof rej);
+        res("Task is Complite")
+        // rej("Task is Incomplite")
+    })
+    console.log(record);
+    record.then((value)=>{        // then is a handler for resolved values
+        console.log(value);
+    }).catch((error)=>{           // catch give error values
+        console.log(error);
+    }).finally(()=>{              // 
+        console.log("It's Complited");
+    })
+    
+</script>

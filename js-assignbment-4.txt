@@ -1,0 +1,27 @@
+solve this using for or while loop :
+
+1) 7, 10, 8, 11, 9, 12, ... What number should come next?
+2) 36, 34, 30, 28, 24, ... What number should come next?
+3) 22, 21, 23, 22, 24, 23, ... What number should come next?
+4) 53, 53, 40, 40, 27, 27, ... What number should come next?
+5) 21, 9, 21, 11, 21, 13, 21, ... What number should come next?
+6) 58, 52, 46, 40, 34, ... What number should come next?
+7) 3, 4, 7, 8, 11, 12, ... What number should come next?
+8) 8, 22, 8, 28, 8, ... What number should come next?
+9) 31, 29, 24, 22, 17, ... What number should come next?
+10) 1.5, 2.3, 3.1, 3.9, ... What number should come next?
+11) 14, 28, 20, 40, 32, 64, ... What number should come next?
+12) 2, 4, 6, 8, 10, ... What number should come next?
+13) 201, 202, 204, 207, ... What number should come next?
+14) 544, 509, 474, 439, ... What number should come next?
+15) 80, 10, 70, 15, 60, ... What number should come next?
+16) 2, 6, 18, 54, ... What number should come next?
+17) 5.2, 4.8, 4.4, 4, ... What number should come next?
+18) 8, 6, 9, 23, 87 , ... What number should come next?
+19) 28 25 5 21 18 5 14 ??
+20) 8 11 21 15 18 21 22 ??
+21) 9 16 23 30 37 44 51 ??
+22) 2 8 14 20 26 32 38 ??
+23) 9 11 33 13 15 33 17 ??
+24) 2 3 4 5 6 4 8 ??
+25) 17 17 34 20 20 31 23 ??
